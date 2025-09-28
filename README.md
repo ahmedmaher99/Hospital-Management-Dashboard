@@ -74,3 +74,4 @@ Finance Page → Revenues, expenses, and profit monitoring
 💰 Financial Clarity: Monitor revenue and expenses for sustainable growth
 
 🎯 Strategic Planning: Enable data-driven decision-making for hospital management
+Example: [Dashboard].(https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Screenshot%202025-09-28%20040319.png)
