@@ -1,5 +1,5 @@
 # Hospital-Management-Dashboard
-Python + MySQL + Power BI 
+Python + SQL Server + Power BI 
 🏥 Hospital Management Dashboard
 
 An interactive, data-driven Power BI dashboard designed to monitor and analyze key aspects of hospital operations.
@@ -16,7 +16,7 @@ The dashboard was developed using the following technologies:
 
 🐍 Python (Pandas, NumPy) → Data cleaning, preprocessing, handling duplicates & missing values
 
-🗄️ MySQL → Data storage, relational modeling, and query management
+🗄️ SQL Server → Data storage, relational modeling, and query management
 
 📊 Power BI → Interactive dashboards, KPIs, and drill-down reports
 
