@@ -1,11 +1,11 @@
 # Hospital-Management-Dashboard
 Python + SQL Server + Power BI 
-🏥 Hospital Management Dashboard
+ Hospital Management Dashboard
 
 An interactive, data-driven Power BI dashboard designed to monitor and analyze key aspects of hospital operations.
 The dashboard includes 6 main pages: Home, Overview, Hospital, Patients, Doctors, and Finance, providing decision-makers with a 360° view of hospital performance.
 
-📌Short Description / Purpose
+Short Description / Purpose
 
 The Hospital Management Dashboard is built to help hospital administrators, analysts, and decision-makers gain insights into patient care, doctor performance, hospital operations, and financial health.
 This tool provides real-time analytics that improve efficiency, support strategic planning, and enhance healthcare service quality.
@@ -37,42 +37,42 @@ Hospitals generate massive amounts of operational, clinical, and financial data.
 
 • Goal of the Dashboard
 
-To create a centralized and interactive dashboard that:
+  -To create a centralized and interactive dashboard that:
 
-Tracks key hospital KPIs across departments
+  -Tracks key hospital KPIs across departments
 
-Provides insights into patient demographics, treatments, and trends
+  -Provides insights into patient demographics, treatments, and trends
 
-Analyzes doctor workloads and specialties
+  -Analyzes doctor workloads and specialties
 
-Monitors financial performance (revenue, expenses, profitability)
+  -Monitors financial performance (revenue, expenses, profitability)
 
-Supports data-driven healthcare management
+  -Supports data-driven healthcare management
 
 • Walkthrough of Key Visuals
 
-Home Page → High-level KPIs and navigation
+  -Home Page → High-level KPIs and navigation
 
-Overview → Admissions, discharges, bed utilization rates
+  -Overview → Admissions, discharges, bed utilization rates
 
-Hospital Page → Operational metrics and departmental performance
+  -Hospital Page → Operational metrics and departmental performance
 
-Patients Page → Demographic analysis, treatments, and trends
+  -Patients Page → Demographic analysis, treatments, and trends
 
-Doctors Page → Performance analytics, workload distribution, specialty breakdown
+  -Doctors Page → Performance analytics, workload distribution, specialty breakdown
 
 Finance Page → Revenues, expenses, and profit monitoring
 
 • Business Impact & Insights
 
-📈 Operational Efficiency: Identify bottlenecks and improve hospital resource utilization
+  -Operational Efficiency: Identify bottlenecks and improve hospital resource utilization
 
-🧑‍🤝‍🧑 Patient Care: Better understanding of patient demographics & treatments for quality improvements
+  -Patient Care: Better understanding of patient demographics & treatments for quality improvements
 
-👨‍⚕️ Doctor Insights: Balance workload and improve staffing strategies
+  -Doctor Insights: Balance workload and improve staffing strategies
 
-💰 Financial Clarity: Monitor revenue and expenses for sustainable growth
+  -Financial Clarity: Monitor revenue and expenses for sustainable growth
 
-🎯 Strategic Planning: Enable data-driven decision-making for hospital management
+  -Strategic Planning: Enable data-driven decision-making for hospital management
 
-Example: [Dashboard].(https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Screenshot%202025-09-28%20040319.png)
+[Dashboard].(https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Screenshot%202025-09-28%20040319.png)
