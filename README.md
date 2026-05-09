@@ -75,4 +75,4 @@ Finance Page → Revenues, expenses, and profit monitoring
 
   -Strategic Planning: Enable data-driven decision-making for hospital management
 
-[Dashboard].(https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Screenshot%202025-09-28%20040319.png)
+![Dashboard].(https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Screenshot%202025-09-28%20040319.png)
