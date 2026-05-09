@@ -89,11 +89,13 @@ The dashboard includes multiple analytical pages covering:
 
 # 🛠️ Tools & Technologies
 
+-  Python
+-  MySQL
 -  Power BI
+-  ETL
 -  Data Visualization
 -  Data Modeling
 -  KPI Analytics
--  Healthcare Analytics
 -  Dashboard UI/UX Design
 
 ---
@@ -130,19 +132,6 @@ The project showcases:
 
 ---
 
-# 💡 What I Learned
-
-Through this project, I improved my skills in:
-
-- Building interactive Power BI dashboards
-- Designing professional healthcare reports
-- Creating KPI-focused analytics
-- Improving dashboard usability and UI/UX
-- Structuring multi-page BI solutions
-- Presenting insights clearly and effectively
-
----
-
 # 📥 How to Use
 
 1. Clone or download this repository.
@@ -153,10 +142,9 @@ Through this project, I improved my skills in:
 
 # 🔗 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
-
+- 💼 LinkedIn: www.linkedin.com/in/ahmed-maher99
+- 📧 Email: ahmed.maher.w515@gmail.com
+- 🌐 Portfolio: Upateing
 ---
 
 # ⭐ Support
