@@ -41,7 +41,7 @@ The dashboard includes multiple analytical pages covering:
 ---
 
 ## 📊 Overview Dashboard
-![Overview Dashboard]([images/overview-dashboard.png](https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Overview%20Dashboard.png))
+![Overview Dashboard]([images/overview-dashboard.png](https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Overview%20Dashboard.png)
 
 ---
 
