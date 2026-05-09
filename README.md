@@ -51,7 +51,7 @@ The dashboard includes multiple analytical pages covering:
 ---
 
 ## 👨‍⚕️ Doctor Dashboard
-![Doctor Dashboard](images/doctor-dashboard.png)
+![Doctor Dashboard](https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Doctor%20Dashboard.png)
 
 ---
 
