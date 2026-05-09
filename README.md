@@ -56,7 +56,7 @@ The dashboard includes multiple analytical pages covering:
 ---
 
 ## 🏥 Hospital Dashboard
-![Hospital Dashboard](images/hospital-dashboard.png)
+![Hospital Dashboard](https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Hospital%20Dashboard.png)
 
 ---
 
