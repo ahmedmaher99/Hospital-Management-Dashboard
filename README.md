@@ -10,19 +10,19 @@ Short Description / Purpose
 The Hospital Management Dashboard is built to help hospital administrators, analysts, and decision-makers gain insights into patient care, doctor performance, hospital operations, and financial health.
 This tool provides real-time analytics that improve efficiency, support strategic planning, and enhance healthcare service quality.
 
-🛠️ Tech Stack
+ Tech Stack
 
 The dashboard was developed using the following technologies:
 
-🐍 Python (Pandas, NumPy) → Data cleaning, preprocessing, handling duplicates & missing values
+ Python (Pandas, NumPy) → Data cleaning, preprocessing, handling duplicates & missing values
 
-🗄️ SQL Server → Data storage, relational modeling, and query management
+ SQL Server → Data storage, relational modeling, and query management
 
-📊 Power BI → Interactive dashboards, KPIs, and drill-down reports
+ Power BI → Interactive dashboards, KPIs, and drill-down reports
 
-🔄 ETL Workflow → Extract, Transform, Load pipeline for structured analysis
+ ETL Workflow → Extract, Transform, Load pipeline for structured analysis
 
-📂 Data Source
+ Data Source
 
 Synthetic/Training Data (for educational purposes, not real patient records)
 
@@ -30,7 +30,7 @@ Includes multiple datasets: hospital operations, patient demographics, doctor de
 
 Data structured into relational tables for Patients, Doctors, Hospitals, and Finance to ensure accurate cross-analysis
 
-✨ Features / Highlights
+ Features / Highlights
 • Business Problem
 
 Hospitals generate massive amounts of operational, clinical, and financial data. However, without proper data integration and visualization, decision-makers face challenges in monitoring performance, improving patient care, and managing resources effectively.
