@@ -65,7 +65,7 @@ The dashboard includes multiple analytical pages covering:
 
 ---
 
-# 🚀 Features
+#  Features
 
 ✔️ Interactive healthcare analytics
 
@@ -89,12 +89,12 @@ The dashboard includes multiple analytical pages covering:
 
 # 🛠️ Tools & Technologies
 
-- 📊 Power BI
-- 📈 Data Visualization
-- 📂 Data Modeling
-- 📉 KPI Analytics
-- 🏥 Healthcare Analytics
-- 🎨 Dashboard UI/UX Design
+-  Power BI
+-  Data Visualization
+-  Data Modeling
+-  KPI Analytics
+-  Healthcare Analytics
+-  Dashboard UI/UX Design
 
 ---
 
@@ -105,13 +105,12 @@ Hospital-Analytics-Dashboard/
 │
 ├── Hospital_Dashboard.pbix
 ├── README.md
-└── images/
-    ├── home-dashboard.png
-    ├── overview-dashboard.png
-    ├── patient-dashboard.png
-    ├── doctor-dashboard.png
-    ├── hospital-dashboard.png
-    └── finance-dashboard.png
+├── home-dashboard.png
+├── overview-dashboard.png
+├── patient-dashboard.png
+├── doctor-dashboard.png
+├── hospital-dashboard.png
+└── finance-dashboard.png
 ```
 
 ---
