@@ -1,10 +1,10 @@
-# 🏥 Hospital Analytics Dashboard | Power BI
+#  Hospital Analytics Dashboard | Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Healthcare](https://img.shields.io/badge/Healthcare-Analytics-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
-## 📌 Project Overview
+##  Project Overview
 
 An interactive **Hospital Analytics Dashboard** built with **Power BI** to analyze hospital operations, patient records, doctor performance, finance insights, and healthcare KPIs through modern and dynamic visualizations.
 
@@ -12,18 +12,18 @@ This project transforms healthcare data into actionable insights that help impro
 
 The dashboard includes multiple analytical pages covering:
 
-- 🧑‍⚕️ Doctor performance analysis
-- 🏥 Hospital operations monitoring
-- 👨‍👩‍👧 Patient analytics
-- 💰 Financial performance insights
-- 🛏️ Bed availability tracking
-- 💊 Medicine sales & stock analysis
-- 📈 Healthcare KPI monitoring
-- 📊 Interactive reports and filters
+-  Doctor performance analysis
+-  Hospital operations monitoring
+-  Patient analytics
+-  Financial performance insights
+-  Bed availability tracking
+-  Medicine sales & stock analysis
+-  Healthcare KPI monitoring
+-  Interactive reports and filters
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Monitor hospital performance efficiently
 - Analyze patient and doctor data
@@ -35,32 +35,32 @@ The dashboard includes multiple analytical pages covering:
 
 #  Dashboard Preview
 
-## 🏠 Home Dashboard
+##  Home Dashboard
 ![Home Dashboard](https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Home%20Dashboard.png)
 
 ---
 
-## 📊 Overview Dashboard
+##  Overview Dashboard
 ![Overview Dashboard](https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Overview%20Dashboard.png)
 
 ---
 
-## 👨‍👩‍👧 Patient Dashboard
+##  Patient Dashboard
 ![Patient Dashboard](https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Patient%20Dashboard.png)
 
 ---
 
-## 👨‍⚕️ Doctor Dashboard
+##  Doctor Dashboard
 ![Doctor Dashboard](https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Doctor%20Dashboard.png)
 
 ---
 
-## 🏥 Hospital Dashboard
+##  Hospital Dashboard
 ![Hospital Dashboard](https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Hospital%20Dashboard.png)
 
 ---
 
-## 💰 Finance Dashboard
+##  Finance Dashboard
 ![Finance Dashboard](https://github.com/ahmedmaher99/Hospital-Management-Dashboard/blob/main/Finance%20Dashboard.png)
 
 ---
@@ -117,7 +117,7 @@ Hospital-Analytics-Dashboard/
 
 ---
 
-# 📈 Business Value
+#  Business Value
 
 This dashboard demonstrates how healthcare data can be transformed into actionable insights using business intelligence and advanced data visualization techniques.
 
@@ -132,7 +132,7 @@ The project showcases:
 
 ---
 
-# 📥 How to Use
+#  How to Use
 
 1. Clone or download this repository.
 2. Open the `.pbix` file using **Power BI Desktop**.
